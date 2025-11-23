@@ -30,6 +30,4 @@ The backend is built with Node.js and Express, using Socket.IO for real-time com
 - **Cross-Platform Compatibility**  
   A single codebase runs on both iOS and Android devices.
 
-  ## Preview
-
-  
+## Preview
