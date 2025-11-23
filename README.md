@@ -13,9 +13,8 @@
 
 ## Description
 
-The app uses React Native with Expo, real-time communication through Socket.IO, and a Node.js/Express backend that speaks directly with the ChatGPT API. Each match creates a short conversation where players interact naturally, and one “player” is secretly the AI pretending to be human. 
-Under the hood, the app stitches together modern mobile development practices, API orchestration, and real-time state synchronization. This keeps the game smooth and chaotic in the best way possible.
-The backend is built with Node.js and Express, using Socket.IO for real-time communication and MongoDB for persistent data storage. The mobile app uses Axios for API calls to the server (including ChatGPT requests) and uses `fetch()` for backend routes that interact with the MongoDB cluster. Expo handles development, device testing, and deployment.
+Spot A Bot is a social-deduction game built with React Native using Expo. The app creates a shared chat where players respond to the same prompt, but one participant is powered by an Ai agent. Your goal is to determine which “player” is the AI agent. 
+The backend runs on Node.js with Express.js, using Socket.IO to handle the live back-and-forth between players while also sending prompts to OpenAI’s ChatGPT. As players talk and vote, the server updates session and round data in MongoDB through simple CRUD routes, while the mobile app stays in sync by calling those backend endpoints with both Axios and fetch.
 
 ---
 
