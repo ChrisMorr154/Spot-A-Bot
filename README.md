@@ -82,7 +82,7 @@ The Game Session is the main experience, this is where real players and the AI i
 
 ## Dashboard
 <p align="center">
-  <img src="Screenshots/IMG_3893.png" width="300" />
+  <img src="Screenshots/dashboard.jpg" width="300" />
 </p>
 
 The Dashboard provides players with a detailed overview of past sessions, results, and analytics. It retrieves data from the database using crud operations. `fetch()` communicates with backend routes that read and update stored documents in MongoDB. This keeps the dashboard responsive while also supporting more complex data operations behind the scenes. Each component is built to scale as additional metrics or visualization features are added in future versions.
