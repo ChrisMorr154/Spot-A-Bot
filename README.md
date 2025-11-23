@@ -64,7 +64,7 @@ The backend is built with Node.js and Express, using Socket.IO for real-time com
 
 # Dashboard
 <p align="center">
-  <img src="Screenshots/dashboard.png" width="300" />
+  <img src="Screenshots/dashboard.jpg" width="300" />
 </p>
 
 
