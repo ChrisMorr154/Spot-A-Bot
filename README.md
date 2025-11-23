@@ -33,23 +33,38 @@ The backend is built with Node.js and Express, using Socket.IO for real-time com
 ## Preview
 
 ## Home Page
+<p align="center">
 <img src="Screenshots/IMG_3885.png" width="300" />
+</p>
 
 ## Settings
-<img src="Screenshots/IMG_3886.png" width="300" />
+<p align="center">
+  <img src="Screenshots/IMG_3886.png" width="300" />
+</p>
 
 ## More Info
-<img src="Screenshots/IMG_3887.png" width="300" />
+<p align="center">
+  <img src="Screenshots/IMG_3887.png" width="300" />
+</p>
 
 ## User Policy
-<img src="Screenshots/IMG_3889.png" width="300" />
+<p align="center">
+  <img src="Screenshots/IMG_3889.png" width="300" />
+</p>
 
 ## Game Rules
-<img src="Screenshots/IMG_3890.png" width="300" />
+<p align="center">
+  <img src="Screenshots/IMG_3890.png" width="300" />
+</p>
 
 ## Game Session
-<img src="Screenshots/IMG_3891.png" width="300" />
+<p align="center">
+  <img src="Screenshots/IMG_3891.png" width="300" />
+</p>
 
 # Dashboard
-<img src="Screenshots/IMG_3893.png" width="300" />
+<p align="center">
+  <img src="Screenshots/IMG_3893.png" width="300" />
+</p>
+
 
