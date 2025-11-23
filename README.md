@@ -1,4 +1,4 @@
-# Spot-A-Bot - A mobile social deduction game
+# Spot-A-Bot 
 
 ## Description
 
