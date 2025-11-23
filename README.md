@@ -14,6 +14,7 @@
 ## Description
 
 Spot A Bot is a social-deduction game built with React Native using Expo. The app creates a shared chat where players respond to the same prompt, but one participant is powered by an Ai agent. Your goal is to determine which “player” is the AI agent. 
+
 The backend runs on Node.js with Express.js, using Socket.IO to handle the live chat between players while also sending prompts to OpenAI’s ChatGPT. As players talk and vote, the server updates session and round data in MongoDB through simple CRUD routes, while the mobile app stays in sync by calling those backend endpoints with both Axios and fetch.
 
 ---
