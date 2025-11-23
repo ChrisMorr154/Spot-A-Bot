@@ -31,3 +31,24 @@ The backend is built with Node.js and Express, using Socket.IO for real-time com
   A single codebase runs on both iOS and Android devices.
 
 ## Preview
+
+## Home Page
+![Project Screenshot](Screenshots/IMG_3885.png)
+
+## Settings
+![Project Screenshot](Screenshots/IMG_3886.png)
+
+## More Info
+![Project Screenshot](Screenshots/IMG_3887.png)
+
+## User Policy
+![Project Screenshot](Screenshots/IMG_3889.png)
+
+## Game Rules
+![Project Screenshot](Screenshots/IMG_3890.png)
+
+## Game Session
+![Project Screenshot](Screenshots/IMG_3891.png)
+
+# Dashboard
+![Project Screenshot](Screenshots/IMG_3893.png)
