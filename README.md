@@ -2,9 +2,9 @@
 
 ## Description
 
-The app uses React Native with Expo, real-time communication through Socket.IO, and a Node.js/Express backend that speaks directly with the ChatGPT API. Each match creates a short conversation where players interact naturally, and one “player” is secretly the AI pretending to be human. The goal? Outsmart it… or let it outsmart you.
+The app uses React Native with Expo, real-time communication through Socket.IO, and a Node.js/Express backend that speaks directly with the ChatGPT API. Each match creates a short conversation where players interact naturally, and one “player” is secretly the AI pretending to be human. 
 
-Under the hood, the app stitches together modern mobile development practices, API orchestration, and real-time state synchronization — all while keeping the gameplay smooth and chaotic in the best way possible.
+Under the hood, the app stitches together modern mobile development practices, API orchestration, and real-time state synchronization. This keeps the game smooth and chaotic in the best way possible.
 
 The backend is built with Node.js and Express, using Socket.IO for real-time communication and MongoDB for persistent data storage. The mobile app uses Axios for API calls to the server (including ChatGPT requests) and uses `fetch()` for backend routes that interact with the MongoDB cluster. Expo handles development, device testing, and deployment.
 
@@ -29,3 +29,7 @@ The backend is built with Node.js and Express, using Socket.IO for real-time com
 
 - **Cross-Platform Compatibility**  
   A single codebase runs on both iOS and Android devices.
+
+  ## Preview
+
+  
